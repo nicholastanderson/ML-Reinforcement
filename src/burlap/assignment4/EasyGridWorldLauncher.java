@@ -20,6 +20,7 @@ import java.io.PrintWriter;
 public class EasyGridWorldLauncher {
 	//These are some boolean variables that affect what will actually get executed
 	private static boolean visualizeInitialGridWorld = true; //Loads a GUI with the agent, walls, and goal
+	private static String dir = "c:/bench/ML-Reinforcement/data/";
 	
 	//runValueIteration, runPolicyIteration, and runQLearning indicate which algorithms will run in the experiment
 	private static boolean runValueIteration = true; 
@@ -80,7 +81,7 @@ public class EasyGridWorldLauncher {
 		if(runQLearning){
 			runner.runQLearning(gen,domain,initialState, rf, tf, env, showQLearningPolicyMap);
 		}
-		PrintWriter pw = new PrintWriter(new File("c:/bench/EasyData.csv"));
+		PrintWriter pw = new PrintWriter(new File(dir+"EasyData.csv"));
 		pw.write("Iteration, Difficulty, Learner, Measure, Value \n");
 		AnalysisAggregator.printAggregateAnalysis(pw);
 		pw.close();
