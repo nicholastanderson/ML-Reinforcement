@@ -69,7 +69,6 @@ public class AnalysisRunner {
 		
 //		Visualizer v = gen.getVisualizer();
 //		new EpisodeSequenceVisualizer(v, domain, Arrays.asList(ea));
-		AnalysisAggregator.printValueIterationResults();
 		MapPrinter.printPolicyMap(vi.getAllStates(), p, gen.getMap());
 		System.out.println("\n\n");
 		if(showPolicyMap){
@@ -106,7 +105,7 @@ public class AnalysisRunner {
 
 //		Visualizer v = gen.getVisualizer();
 //		new EpisodeSequenceVisualizer(v, domain, Arrays.asList(ea));
-		AnalysisAggregator.printPolicyIterationResults();
+
 
 		MapPrinter.printPolicyMap(getAllStates(domain,rf,tf,initialState), p, gen.getMap());
 		System.out.println("\n\n");
@@ -157,7 +156,7 @@ public class AnalysisRunner {
 			AnalysisAggregator.addStepsToFinishQLearning(ea.numTimeSteps());
 
 		}
-		AnalysisAggregator.printQLearningResults();
+
 		MapPrinter.printPolicyMap(getAllStates(domain,rf,tf,initialState), p, gen.getMap());
 		System.out.println("\n\n");
 

@@ -13,6 +13,10 @@ import burlap.oomdp.singleagent.environment.SimulatedEnvironment;
 import burlap.oomdp.singleagent.explorer.VisualExplorer;
 import burlap.oomdp.visualizer.Visualizer;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+
 public class EasyGridWorldLauncher {
 	//These are some boolean variables that affect what will actually get executed
 	private static boolean visualizeInitialGridWorld = true; //Loads a GUI with the agent, walls, and goal
@@ -41,7 +45,7 @@ public class EasyGridWorldLauncher {
 	
 //	private static Integer mapLen = map.length-1;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException{
 		// convert to BURLAP indexing
 		int[][] map = MapPrinter.mapToMatrix(userMap);
 		int maxX = map.length-1;
@@ -76,7 +80,10 @@ public class EasyGridWorldLauncher {
 		if(runQLearning){
 			runner.runQLearning(gen,domain,initialState, rf, tf, env, showQLearningPolicyMap);
 		}
-		AnalysisAggregator.printAggregateAnalysis();
+		PrintWriter pw = new PrintWriter(new File("c:/bench/EasyData.csv"));
+		pw.write("Iteration, Difficulty, Learner, Measure, Value \n");
+		AnalysisAggregator.printAggregateAnalysis(pw);
+		pw.close();
 	}
 
 
