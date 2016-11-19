@@ -17,8 +17,9 @@ import java.io.PrintWriter;
 public class HardGridWorldLauncher {
 	//These are some boolean variables that affect what will actually get executed
 	private static boolean visualizeInitialGridWorld = true; //Loads a GUI with the agent, walls, and goal
-	private static String dir = "c:/bench/ML-Reinforcement/data/";
-	
+	//private static String dir = "c:/bench/ML-Reinforcement/data/";
+	private static String dir = "/Users/nicholasanderson/bench/ml-reinforcement/data/";
+
 	//runValueIteration, runPolicyIteration, and runQLearning indicate which algorithms will run in the experiment
 	private static boolean runValueIteration = true; 
 	private static boolean runPolicyIteration = true;

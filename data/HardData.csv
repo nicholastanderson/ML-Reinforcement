@@ -1,901 +1,901 @@
 Iteration, Difficulty, Learner, Measure, Value 
-1, Hard, Value Iteration, Results, 3458
-2, Hard, Value Iteration, Results, 1501
-3, Hard, Value Iteration, Results, 3810
-4, Hard, Value Iteration, Results, 56
-5, Hard, Value Iteration, Results, 41
-6, Hard, Value Iteration, Results, 33
-7, Hard, Value Iteration, Results, 35
-8, Hard, Value Iteration, Results, 38
-9, Hard, Value Iteration, Results, 27
-10, Hard, Value Iteration, Results, 29
-11, Hard, Value Iteration, Results, 32
-12, Hard, Value Iteration, Results, 23
+1, Hard, Value Iteration, Results, 1018
+2, Hard, Value Iteration, Results, 4772
+3, Hard, Value Iteration, Results, 380
+4, Hard, Value Iteration, Results, 141
+5, Hard, Value Iteration, Results, 38
+6, Hard, Value Iteration, Results, 32
+7, Hard, Value Iteration, Results, 25
+8, Hard, Value Iteration, Results, 21
+9, Hard, Value Iteration, Results, 29
+10, Hard, Value Iteration, Results, 31
+11, Hard, Value Iteration, Results, 33
+12, Hard, Value Iteration, Results, 30
 13, Hard, Value Iteration, Results, 32
-14, Hard, Value Iteration, Results, 30
-15, Hard, Value Iteration, Results, 29
-16, Hard, Value Iteration, Results, 30
-17, Hard, Value Iteration, Results, 25
+14, Hard, Value Iteration, Results, 27
+15, Hard, Value Iteration, Results, 21
+16, Hard, Value Iteration, Results, 28
+17, Hard, Value Iteration, Results, 35
 18, Hard, Value Iteration, Results, 25
-19, Hard, Value Iteration, Results, 30
-20, Hard, Value Iteration, Results, 25
+19, Hard, Value Iteration, Results, 32
+20, Hard, Value Iteration, Results, 30
 21, Hard, Value Iteration, Results, 26
-22, Hard, Value Iteration, Results, 27
-23, Hard, Value Iteration, Results, 24
-24, Hard, Value Iteration, Results, 27
-25, Hard, Value Iteration, Results, 29
-26, Hard, Value Iteration, Results, 33
-27, Hard, Value Iteration, Results, 34
-28, Hard, Value Iteration, Results, 23
+22, Hard, Value Iteration, Results, 26
+23, Hard, Value Iteration, Results, 36
+24, Hard, Value Iteration, Results, 28
+25, Hard, Value Iteration, Results, 22
+26, Hard, Value Iteration, Results, 22
+27, Hard, Value Iteration, Results, 25
+28, Hard, Value Iteration, Results, 26
 29, Hard, Value Iteration, Results, 27
-30, Hard, Value Iteration, Results, 25
-31, Hard, Value Iteration, Results, 27
-32, Hard, Value Iteration, Results, 22
-33, Hard, Value Iteration, Results, 25
-34, Hard, Value Iteration, Results, 28
-35, Hard, Value Iteration, Results, 28
-36, Hard, Value Iteration, Results, 26
-37, Hard, Value Iteration, Results, 30
-38, Hard, Value Iteration, Results, 29
-39, Hard, Value Iteration, Results, 29
-40, Hard, Value Iteration, Results, 30
-41, Hard, Value Iteration, Results, 26
-42, Hard, Value Iteration, Results, 23
-43, Hard, Value Iteration, Results, 33
+30, Hard, Value Iteration, Results, 24
+31, Hard, Value Iteration, Results, 23
+32, Hard, Value Iteration, Results, 31
+33, Hard, Value Iteration, Results, 30
+34, Hard, Value Iteration, Results, 25
+35, Hard, Value Iteration, Results, 24
+36, Hard, Value Iteration, Results, 22
+37, Hard, Value Iteration, Results, 31
+38, Hard, Value Iteration, Results, 27
+39, Hard, Value Iteration, Results, 23
+40, Hard, Value Iteration, Results, 34
+41, Hard, Value Iteration, Results, 28
+42, Hard, Value Iteration, Results, 27
+43, Hard, Value Iteration, Results, 30
 44, Hard, Value Iteration, Results, 24
-45, Hard, Value Iteration, Results, 33
-46, Hard, Value Iteration, Results, 32
-47, Hard, Value Iteration, Results, 24
-48, Hard, Value Iteration, Results, 29
-49, Hard, Value Iteration, Results, 25
-50, Hard, Value Iteration, Results, 31
-51, Hard, Value Iteration, Results, 28
-52, Hard, Value Iteration, Results, 31
-53, Hard, Value Iteration, Results, 33
-54, Hard, Value Iteration, Results, 36
-55, Hard, Value Iteration, Results, 21
-56, Hard, Value Iteration, Results, 26
-57, Hard, Value Iteration, Results, 21
-58, Hard, Value Iteration, Results, 27
-59, Hard, Value Iteration, Results, 29
+45, Hard, Value Iteration, Results, 23
+46, Hard, Value Iteration, Results, 30
+47, Hard, Value Iteration, Results, 26
+48, Hard, Value Iteration, Results, 33
+49, Hard, Value Iteration, Results, 28
+50, Hard, Value Iteration, Results, 23
+51, Hard, Value Iteration, Results, 22
+52, Hard, Value Iteration, Results, 24
+53, Hard, Value Iteration, Results, 32
+54, Hard, Value Iteration, Results, 25
+55, Hard, Value Iteration, Results, 23
+56, Hard, Value Iteration, Results, 24
+57, Hard, Value Iteration, Results, 23
+58, Hard, Value Iteration, Results, 29
+59, Hard, Value Iteration, Results, 30
 60, Hard, Value Iteration, Results, 36
-61, Hard, Value Iteration, Results, 32
-62, Hard, Value Iteration, Results, 29
-63, Hard, Value Iteration, Results, 26
-64, Hard, Value Iteration, Results, 26
-65, Hard, Value Iteration, Results, 34
-66, Hard, Value Iteration, Results, 27
-67, Hard, Value Iteration, Results, 26
-68, Hard, Value Iteration, Results, 29
-69, Hard, Value Iteration, Results, 32
-70, Hard, Value Iteration, Results, 22
-71, Hard, Value Iteration, Results, 24
-72, Hard, Value Iteration, Results, 30
-73, Hard, Value Iteration, Results, 26
-74, Hard, Value Iteration, Results, 23
-75, Hard, Value Iteration, Results, 21
-76, Hard, Value Iteration, Results, 24
-77, Hard, Value Iteration, Results, 26
-78, Hard, Value Iteration, Results, 27
-79, Hard, Value Iteration, Results, 21
-80, Hard, Value Iteration, Results, 23
-81, Hard, Value Iteration, Results, 28
-82, Hard, Value Iteration, Results, 27
-83, Hard, Value Iteration, Results, 30
-84, Hard, Value Iteration, Results, 35
-85, Hard, Value Iteration, Results, 26
-86, Hard, Value Iteration, Results, 26
-87, Hard, Value Iteration, Results, 26
-88, Hard, Value Iteration, Results, 25
-89, Hard, Value Iteration, Results, 23
-90, Hard, Value Iteration, Results, 27
-91, Hard, Value Iteration, Results, 22
-92, Hard, Value Iteration, Results, 31
-93, Hard, Value Iteration, Results, 32
-94, Hard, Value Iteration, Results, 26
-95, Hard, Value Iteration, Results, 24
-96, Hard, Value Iteration, Results, 26
-97, Hard, Value Iteration, Results, 26
-98, Hard, Value Iteration, Results, 25
+61, Hard, Value Iteration, Results, 27
+62, Hard, Value Iteration, Results, 22
+63, Hard, Value Iteration, Results, 28
+64, Hard, Value Iteration, Results, 23
+65, Hard, Value Iteration, Results, 22
+66, Hard, Value Iteration, Results, 30
+67, Hard, Value Iteration, Results, 25
+68, Hard, Value Iteration, Results, 27
+69, Hard, Value Iteration, Results, 30
+70, Hard, Value Iteration, Results, 24
+71, Hard, Value Iteration, Results, 25
+72, Hard, Value Iteration, Results, 21
+73, Hard, Value Iteration, Results, 29
+74, Hard, Value Iteration, Results, 29
+75, Hard, Value Iteration, Results, 33
+76, Hard, Value Iteration, Results, 21
+77, Hard, Value Iteration, Results, 21
+78, Hard, Value Iteration, Results, 21
+79, Hard, Value Iteration, Results, 26
+80, Hard, Value Iteration, Results, 25
+81, Hard, Value Iteration, Results, 21
+82, Hard, Value Iteration, Results, 26
+83, Hard, Value Iteration, Results, 31
+84, Hard, Value Iteration, Results, 31
+85, Hard, Value Iteration, Results, 24
+86, Hard, Value Iteration, Results, 30
+87, Hard, Value Iteration, Results, 23
+88, Hard, Value Iteration, Results, 37
+89, Hard, Value Iteration, Results, 25
+90, Hard, Value Iteration, Results, 34
+91, Hard, Value Iteration, Results, 33
+92, Hard, Value Iteration, Results, 23
+93, Hard, Value Iteration, Results, 23
+94, Hard, Value Iteration, Results, 28
+95, Hard, Value Iteration, Results, 33
+96, Hard, Value Iteration, Results, 24
+97, Hard, Value Iteration, Results, 22
+98, Hard, Value Iteration, Results, 23
 99, Hard, Value Iteration, Results, 32
-100, Hard, Value Iteration, Results, 37
-1, Hard, Policy Iteration, Results, 2169
-2, Hard, Policy Iteration, Results, 1118
-3, Hard, Policy Iteration, Results, 3373
-4, Hard, Policy Iteration, Results, 866
-5, Hard, Policy Iteration, Results, 2089
-6, Hard, Policy Iteration, Results, 3105
-7, Hard, Policy Iteration, Results, 54
-8, Hard, Policy Iteration, Results, 53
-9, Hard, Policy Iteration, Results, 37
-10, Hard, Policy Iteration, Results, 30
-11, Hard, Policy Iteration, Results, 21
-12, Hard, Policy Iteration, Results, 24
-13, Hard, Policy Iteration, Results, 24
-14, Hard, Policy Iteration, Results, 26
-15, Hard, Policy Iteration, Results, 32
-16, Hard, Policy Iteration, Results, 22
-17, Hard, Policy Iteration, Results, 22
-18, Hard, Policy Iteration, Results, 24
-19, Hard, Policy Iteration, Results, 22
-20, Hard, Policy Iteration, Results, 36
-21, Hard, Policy Iteration, Results, 27
+100, Hard, Value Iteration, Results, 25
+1, Hard, Policy Iteration, Results, 2312
+2, Hard, Policy Iteration, Results, 1807
+3, Hard, Policy Iteration, Results, 2302
+4, Hard, Policy Iteration, Results, 243
+5, Hard, Policy Iteration, Results, 1578
+6, Hard, Policy Iteration, Results, 140
+7, Hard, Policy Iteration, Results, 114
+8, Hard, Policy Iteration, Results, 63
+9, Hard, Policy Iteration, Results, 30
+10, Hard, Policy Iteration, Results, 36
+11, Hard, Policy Iteration, Results, 25
+12, Hard, Policy Iteration, Results, 30
+13, Hard, Policy Iteration, Results, 38
+14, Hard, Policy Iteration, Results, 25
+15, Hard, Policy Iteration, Results, 25
+16, Hard, Policy Iteration, Results, 28
+17, Hard, Policy Iteration, Results, 24
+18, Hard, Policy Iteration, Results, 25
+19, Hard, Policy Iteration, Results, 30
+20, Hard, Policy Iteration, Results, 26
+21, Hard, Policy Iteration, Results, 23
 22, Hard, Policy Iteration, Results, 25
-23, Hard, Policy Iteration, Results, 25
-24, Hard, Policy Iteration, Results, 30
-25, Hard, Policy Iteration, Results, 26
-26, Hard, Policy Iteration, Results, 44
-27, Hard, Policy Iteration, Results, 24
-28, Hard, Policy Iteration, Results, 43
-29, Hard, Policy Iteration, Results, 28
-30, Hard, Policy Iteration, Results, 46
-31, Hard, Policy Iteration, Results, 27
-32, Hard, Policy Iteration, Results, 33
-33, Hard, Policy Iteration, Results, 24
-34, Hard, Policy Iteration, Results, 26
+23, Hard, Policy Iteration, Results, 22
+24, Hard, Policy Iteration, Results, 26
+25, Hard, Policy Iteration, Results, 30
+26, Hard, Policy Iteration, Results, 31
+27, Hard, Policy Iteration, Results, 26
+28, Hard, Policy Iteration, Results, 25
+29, Hard, Policy Iteration, Results, 27
+30, Hard, Policy Iteration, Results, 36
+31, Hard, Policy Iteration, Results, 24
+32, Hard, Policy Iteration, Results, 26
+33, Hard, Policy Iteration, Results, 26
+34, Hard, Policy Iteration, Results, 27
 35, Hard, Policy Iteration, Results, 27
-36, Hard, Policy Iteration, Results, 23
-37, Hard, Policy Iteration, Results, 38
-38, Hard, Policy Iteration, Results, 29
-39, Hard, Policy Iteration, Results, 23
-40, Hard, Policy Iteration, Results, 30
-41, Hard, Policy Iteration, Results, 23
-42, Hard, Policy Iteration, Results, 31
-43, Hard, Policy Iteration, Results, 39
-44, Hard, Policy Iteration, Results, 33
-45, Hard, Policy Iteration, Results, 25
-46, Hard, Policy Iteration, Results, 28
-47, Hard, Policy Iteration, Results, 32
+36, Hard, Policy Iteration, Results, 21
+37, Hard, Policy Iteration, Results, 28
+38, Hard, Policy Iteration, Results, 31
+39, Hard, Policy Iteration, Results, 32
+40, Hard, Policy Iteration, Results, 36
+41, Hard, Policy Iteration, Results, 26
+42, Hard, Policy Iteration, Results, 25
+43, Hard, Policy Iteration, Results, 27
+44, Hard, Policy Iteration, Results, 24
+45, Hard, Policy Iteration, Results, 32
+46, Hard, Policy Iteration, Results, 24
+47, Hard, Policy Iteration, Results, 29
 48, Hard, Policy Iteration, Results, 33
-49, Hard, Policy Iteration, Results, 22
-50, Hard, Policy Iteration, Results, 27
-51, Hard, Policy Iteration, Results, 25
-52, Hard, Policy Iteration, Results, 28
-53, Hard, Policy Iteration, Results, 25
-54, Hard, Policy Iteration, Results, 22
-55, Hard, Policy Iteration, Results, 30
-56, Hard, Policy Iteration, Results, 26
-57, Hard, Policy Iteration, Results, 26
-58, Hard, Policy Iteration, Results, 31
-59, Hard, Policy Iteration, Results, 24
-60, Hard, Policy Iteration, Results, 29
-61, Hard, Policy Iteration, Results, 28
-62, Hard, Policy Iteration, Results, 23
-63, Hard, Policy Iteration, Results, 31
-64, Hard, Policy Iteration, Results, 27
-65, Hard, Policy Iteration, Results, 28
-66, Hard, Policy Iteration, Results, 25
-67, Hard, Policy Iteration, Results, 24
-68, Hard, Policy Iteration, Results, 25
-69, Hard, Policy Iteration, Results, 26
-70, Hard, Policy Iteration, Results, 23
-71, Hard, Policy Iteration, Results, 23
-72, Hard, Policy Iteration, Results, 30
-73, Hard, Policy Iteration, Results, 25
-74, Hard, Policy Iteration, Results, 28
-75, Hard, Policy Iteration, Results, 24
-76, Hard, Policy Iteration, Results, 22
-77, Hard, Policy Iteration, Results, 26
-78, Hard, Policy Iteration, Results, 25
+49, Hard, Policy Iteration, Results, 23
+50, Hard, Policy Iteration, Results, 26
+51, Hard, Policy Iteration, Results, 30
+52, Hard, Policy Iteration, Results, 31
+53, Hard, Policy Iteration, Results, 24
+54, Hard, Policy Iteration, Results, 26
+55, Hard, Policy Iteration, Results, 40
+56, Hard, Policy Iteration, Results, 22
+57, Hard, Policy Iteration, Results, 35
+58, Hard, Policy Iteration, Results, 28
+59, Hard, Policy Iteration, Results, 32
+60, Hard, Policy Iteration, Results, 27
+61, Hard, Policy Iteration, Results, 25
+62, Hard, Policy Iteration, Results, 26
+63, Hard, Policy Iteration, Results, 29
+64, Hard, Policy Iteration, Results, 23
+65, Hard, Policy Iteration, Results, 23
+66, Hard, Policy Iteration, Results, 27
+67, Hard, Policy Iteration, Results, 28
+68, Hard, Policy Iteration, Results, 26
+69, Hard, Policy Iteration, Results, 24
+70, Hard, Policy Iteration, Results, 39
+71, Hard, Policy Iteration, Results, 26
+72, Hard, Policy Iteration, Results, 26
+73, Hard, Policy Iteration, Results, 27
+74, Hard, Policy Iteration, Results, 27
+75, Hard, Policy Iteration, Results, 21
+76, Hard, Policy Iteration, Results, 23
+77, Hard, Policy Iteration, Results, 31
+78, Hard, Policy Iteration, Results, 26
 79, Hard, Policy Iteration, Results, 21
 80, Hard, Policy Iteration, Results, 24
-81, Hard, Policy Iteration, Results, 32
-82, Hard, Policy Iteration, Results, 23
-83, Hard, Policy Iteration, Results, 32
-84, Hard, Policy Iteration, Results, 32
-85, Hard, Policy Iteration, Results, 21
-86, Hard, Policy Iteration, Results, 27
-87, Hard, Policy Iteration, Results, 30
-88, Hard, Policy Iteration, Results, 25
-89, Hard, Policy Iteration, Results, 26
-90, Hard, Policy Iteration, Results, 25
-91, Hard, Policy Iteration, Results, 31
-92, Hard, Policy Iteration, Results, 26
-93, Hard, Policy Iteration, Results, 25
-94, Hard, Policy Iteration, Results, 29
-95, Hard, Policy Iteration, Results, 29
-96, Hard, Policy Iteration, Results, 26
-97, Hard, Policy Iteration, Results, 24
-98, Hard, Policy Iteration, Results, 28
-99, Hard, Policy Iteration, Results, 23
-100, Hard, Policy Iteration, Results, 26
-1, Hard, Q Learning, Results, 262
-2, Hard, Q Learning, Results, 263
-3, Hard, Q Learning, Results, 710
-4, Hard, Q Learning, Results, 404
-5, Hard, Q Learning, Results, 124
-6, Hard, Q Learning, Results, 131
-7, Hard, Q Learning, Results, 90
-8, Hard, Q Learning, Results, 170
-9, Hard, Q Learning, Results, 208
-10, Hard, Q Learning, Results, 213
-11, Hard, Q Learning, Results, 168
-12, Hard, Q Learning, Results, 190
-13, Hard, Q Learning, Results, 54
-14, Hard, Q Learning, Results, 62
-15, Hard, Q Learning, Results, 321
-16, Hard, Q Learning, Results, 113
-17, Hard, Q Learning, Results, 49
-18, Hard, Q Learning, Results, 145
-19, Hard, Q Learning, Results, 162
-20, Hard, Q Learning, Results, 82
-21, Hard, Q Learning, Results, 79
-22, Hard, Q Learning, Results, 164
-23, Hard, Q Learning, Results, 51
-24, Hard, Q Learning, Results, 126
-25, Hard, Q Learning, Results, 42
-26, Hard, Q Learning, Results, 112
-27, Hard, Q Learning, Results, 62
-28, Hard, Q Learning, Results, 58
-29, Hard, Q Learning, Results, 58
-30, Hard, Q Learning, Results, 81
-31, Hard, Q Learning, Results, 53
-32, Hard, Q Learning, Results, 89
-33, Hard, Q Learning, Results, 66
-34, Hard, Q Learning, Results, 98
-35, Hard, Q Learning, Results, 72
-36, Hard, Q Learning, Results, 54
-37, Hard, Q Learning, Results, 46
-38, Hard, Q Learning, Results, 128
-39, Hard, Q Learning, Results, 144
-40, Hard, Q Learning, Results, 139
-41, Hard, Q Learning, Results, 39
-42, Hard, Q Learning, Results, 46
-43, Hard, Q Learning, Results, 67
-44, Hard, Q Learning, Results, 58
-45, Hard, Q Learning, Results, 170
-46, Hard, Q Learning, Results, 48
-47, Hard, Q Learning, Results, 22
-48, Hard, Q Learning, Results, 41
-49, Hard, Q Learning, Results, 45
-50, Hard, Q Learning, Results, 112
-51, Hard, Q Learning, Results, 42
-52, Hard, Q Learning, Results, 52
-53, Hard, Q Learning, Results, 29
-54, Hard, Q Learning, Results, 132
-55, Hard, Q Learning, Results, 37
-56, Hard, Q Learning, Results, 74
-57, Hard, Q Learning, Results, 87
-58, Hard, Q Learning, Results, 66
-59, Hard, Q Learning, Results, 85
-60, Hard, Q Learning, Results, 43
-61, Hard, Q Learning, Results, 65
-62, Hard, Q Learning, Results, 34
-63, Hard, Q Learning, Results, 48
-64, Hard, Q Learning, Results, 51
-65, Hard, Q Learning, Results, 77
-66, Hard, Q Learning, Results, 156
+81, Hard, Policy Iteration, Results, 22
+82, Hard, Policy Iteration, Results, 33
+83, Hard, Policy Iteration, Results, 31
+84, Hard, Policy Iteration, Results, 25
+85, Hard, Policy Iteration, Results, 26
+86, Hard, Policy Iteration, Results, 23
+87, Hard, Policy Iteration, Results, 28
+88, Hard, Policy Iteration, Results, 23
+89, Hard, Policy Iteration, Results, 31
+90, Hard, Policy Iteration, Results, 23
+91, Hard, Policy Iteration, Results, 21
+92, Hard, Policy Iteration, Results, 22
+93, Hard, Policy Iteration, Results, 29
+94, Hard, Policy Iteration, Results, 23
+95, Hard, Policy Iteration, Results, 22
+96, Hard, Policy Iteration, Results, 29
+97, Hard, Policy Iteration, Results, 50
+98, Hard, Policy Iteration, Results, 31
+99, Hard, Policy Iteration, Results, 25
+100, Hard, Policy Iteration, Results, 31
+1, Hard, Q Learning, Results, 381
+2, Hard, Q Learning, Results, 702
+3, Hard, Q Learning, Results, 516
+4, Hard, Q Learning, Results, 238
+5, Hard, Q Learning, Results, 122
+6, Hard, Q Learning, Results, 202
+7, Hard, Q Learning, Results, 149
+8, Hard, Q Learning, Results, 306
+9, Hard, Q Learning, Results, 110
+10, Hard, Q Learning, Results, 64
+11, Hard, Q Learning, Results, 60
+12, Hard, Q Learning, Results, 144
+13, Hard, Q Learning, Results, 145
+14, Hard, Q Learning, Results, 106
+15, Hard, Q Learning, Results, 55
+16, Hard, Q Learning, Results, 85
+17, Hard, Q Learning, Results, 136
+18, Hard, Q Learning, Results, 56
+19, Hard, Q Learning, Results, 586
+20, Hard, Q Learning, Results, 95
+21, Hard, Q Learning, Results, 138
+22, Hard, Q Learning, Results, 83
+23, Hard, Q Learning, Results, 81
+24, Hard, Q Learning, Results, 111
+25, Hard, Q Learning, Results, 85
+26, Hard, Q Learning, Results, 163
+27, Hard, Q Learning, Results, 72
+28, Hard, Q Learning, Results, 38
+29, Hard, Q Learning, Results, 45
+30, Hard, Q Learning, Results, 59
+31, Hard, Q Learning, Results, 73
+32, Hard, Q Learning, Results, 77
+33, Hard, Q Learning, Results, 268
+34, Hard, Q Learning, Results, 44
+35, Hard, Q Learning, Results, 100
+36, Hard, Q Learning, Results, 68
+37, Hard, Q Learning, Results, 65
+38, Hard, Q Learning, Results, 71
+39, Hard, Q Learning, Results, 36
+40, Hard, Q Learning, Results, 53
+41, Hard, Q Learning, Results, 107
+42, Hard, Q Learning, Results, 54
+43, Hard, Q Learning, Results, 65
+44, Hard, Q Learning, Results, 150
+45, Hard, Q Learning, Results, 67
+46, Hard, Q Learning, Results, 107
+47, Hard, Q Learning, Results, 53
+48, Hard, Q Learning, Results, 43
+49, Hard, Q Learning, Results, 250
+50, Hard, Q Learning, Results, 59
+51, Hard, Q Learning, Results, 53
+52, Hard, Q Learning, Results, 61
+53, Hard, Q Learning, Results, 56
+54, Hard, Q Learning, Results, 41
+55, Hard, Q Learning, Results, 92
+56, Hard, Q Learning, Results, 43
+57, Hard, Q Learning, Results, 269
+58, Hard, Q Learning, Results, 34
+59, Hard, Q Learning, Results, 70
+60, Hard, Q Learning, Results, 60
+61, Hard, Q Learning, Results, 48
+62, Hard, Q Learning, Results, 51
+63, Hard, Q Learning, Results, 42
+64, Hard, Q Learning, Results, 143
+65, Hard, Q Learning, Results, 62
+66, Hard, Q Learning, Results, 50
 67, Hard, Q Learning, Results, 33
-68, Hard, Q Learning, Results, 215
-69, Hard, Q Learning, Results, 153
-70, Hard, Q Learning, Results, 60
-71, Hard, Q Learning, Results, 58
-72, Hard, Q Learning, Results, 45
-73, Hard, Q Learning, Results, 53
-74, Hard, Q Learning, Results, 60
-75, Hard, Q Learning, Results, 34
-76, Hard, Q Learning, Results, 98
-77, Hard, Q Learning, Results, 33
-78, Hard, Q Learning, Results, 35
-79, Hard, Q Learning, Results, 42
-80, Hard, Q Learning, Results, 120
-81, Hard, Q Learning, Results, 150
-82, Hard, Q Learning, Results, 35
-83, Hard, Q Learning, Results, 44
-84, Hard, Q Learning, Results, 37
-85, Hard, Q Learning, Results, 132
-86, Hard, Q Learning, Results, 25
-87, Hard, Q Learning, Results, 33
-88, Hard, Q Learning, Results, 71
-89, Hard, Q Learning, Results, 155
-90, Hard, Q Learning, Results, 139
-91, Hard, Q Learning, Results, 133
-92, Hard, Q Learning, Results, 133
-93, Hard, Q Learning, Results, 74
-94, Hard, Q Learning, Results, 54
-95, Hard, Q Learning, Results, 65
-96, Hard, Q Learning, Results, 73
-97, Hard, Q Learning, Results, 53
-98, Hard, Q Learning, Results, 67
-99, Hard, Q Learning, Results, 64
-100, Hard, Q Learning, Results, 128
-1, Hard, Value Iteration, Time Results, 35
-2, Hard, Value Iteration, Time Results, 8
-3, Hard, Value Iteration, Time Results, 6
-4, Hard, Value Iteration, Time Results, 20
-5, Hard, Value Iteration, Time Results, 17
-6, Hard, Value Iteration, Time Results, 18
+68, Hard, Q Learning, Results, 31
+69, Hard, Q Learning, Results, 85
+70, Hard, Q Learning, Results, 36
+71, Hard, Q Learning, Results, 62
+72, Hard, Q Learning, Results, 83
+73, Hard, Q Learning, Results, 56
+74, Hard, Q Learning, Results, 155
+75, Hard, Q Learning, Results, 40
+76, Hard, Q Learning, Results, 121
+77, Hard, Q Learning, Results, 49
+78, Hard, Q Learning, Results, 51
+79, Hard, Q Learning, Results, 28
+80, Hard, Q Learning, Results, 66
+81, Hard, Q Learning, Results, 107
+82, Hard, Q Learning, Results, 96
+83, Hard, Q Learning, Results, 30
+84, Hard, Q Learning, Results, 41
+85, Hard, Q Learning, Results, 38
+86, Hard, Q Learning, Results, 95
+87, Hard, Q Learning, Results, 114
+88, Hard, Q Learning, Results, 35
+89, Hard, Q Learning, Results, 112
+90, Hard, Q Learning, Results, 111
+91, Hard, Q Learning, Results, 65
+92, Hard, Q Learning, Results, 43
+93, Hard, Q Learning, Results, 47
+94, Hard, Q Learning, Results, 69
+95, Hard, Q Learning, Results, 53
+96, Hard, Q Learning, Results, 59
+97, Hard, Q Learning, Results, 39
+98, Hard, Q Learning, Results, 89
+99, Hard, Q Learning, Results, 40
+100, Hard, Q Learning, Results, 43
+1, Hard, Value Iteration, Time Results, 122
+2, Hard, Value Iteration, Time Results, 11
+3, Hard, Value Iteration, Time Results, 9
+4, Hard, Value Iteration, Time Results, 16
+5, Hard, Value Iteration, Time Results, 32
+6, Hard, Value Iteration, Time Results, 14
 7, Hard, Value Iteration, Time Results, 14
-8, Hard, Value Iteration, Time Results, 16
-9, Hard, Value Iteration, Time Results, 17
-10, Hard, Value Iteration, Time Results, 13
-11, Hard, Value Iteration, Time Results, 15
-12, Hard, Value Iteration, Time Results, 15
-13, Hard, Value Iteration, Time Results, 12
-14, Hard, Value Iteration, Time Results, 20
-15, Hard, Value Iteration, Time Results, 24
-16, Hard, Value Iteration, Time Results, 34
-17, Hard, Value Iteration, Time Results, 28
-18, Hard, Value Iteration, Time Results, 24
-19, Hard, Value Iteration, Time Results, 32
-20, Hard, Value Iteration, Time Results, 25
-21, Hard, Value Iteration, Time Results, 34
+8, Hard, Value Iteration, Time Results, 17
+9, Hard, Value Iteration, Time Results, 27
+10, Hard, Value Iteration, Time Results, 19
+11, Hard, Value Iteration, Time Results, 19
+12, Hard, Value Iteration, Time Results, 21
+13, Hard, Value Iteration, Time Results, 29
+14, Hard, Value Iteration, Time Results, 34
+15, Hard, Value Iteration, Time Results, 69
+16, Hard, Value Iteration, Time Results, 35
+17, Hard, Value Iteration, Time Results, 36
+18, Hard, Value Iteration, Time Results, 35
+19, Hard, Value Iteration, Time Results, 40
+20, Hard, Value Iteration, Time Results, 40
+21, Hard, Value Iteration, Time Results, 40
 22, Hard, Value Iteration, Time Results, 33
-23, Hard, Value Iteration, Time Results, 22
-24, Hard, Value Iteration, Time Results, 19
-25, Hard, Value Iteration, Time Results, 19
-26, Hard, Value Iteration, Time Results, 21
-27, Hard, Value Iteration, Time Results, 21
-28, Hard, Value Iteration, Time Results, 22
-29, Hard, Value Iteration, Time Results, 26
-30, Hard, Value Iteration, Time Results, 23
-31, Hard, Value Iteration, Time Results, 23
-32, Hard, Value Iteration, Time Results, 24
-33, Hard, Value Iteration, Time Results, 24
-34, Hard, Value Iteration, Time Results, 25
-35, Hard, Value Iteration, Time Results, 35
-36, Hard, Value Iteration, Time Results, 38
-37, Hard, Value Iteration, Time Results, 39
-38, Hard, Value Iteration, Time Results, 38
-39, Hard, Value Iteration, Time Results, 38
-40, Hard, Value Iteration, Time Results, 29
-41, Hard, Value Iteration, Time Results, 31
-42, Hard, Value Iteration, Time Results, 31
-43, Hard, Value Iteration, Time Results, 31
-44, Hard, Value Iteration, Time Results, 33
-45, Hard, Value Iteration, Time Results, 33
-46, Hard, Value Iteration, Time Results, 34
-47, Hard, Value Iteration, Time Results, 35
-48, Hard, Value Iteration, Time Results, 37
-49, Hard, Value Iteration, Time Results, 36
-50, Hard, Value Iteration, Time Results, 36
-51, Hard, Value Iteration, Time Results, 37
-52, Hard, Value Iteration, Time Results, 39
-53, Hard, Value Iteration, Time Results, 40
-54, Hard, Value Iteration, Time Results, 46
-55, Hard, Value Iteration, Time Results, 56
-56, Hard, Value Iteration, Time Results, 60
-57, Hard, Value Iteration, Time Results, 64
-58, Hard, Value Iteration, Time Results, 60
-59, Hard, Value Iteration, Time Results, 67
-60, Hard, Value Iteration, Time Results, 56
-61, Hard, Value Iteration, Time Results, 45
-62, Hard, Value Iteration, Time Results, 46
-63, Hard, Value Iteration, Time Results, 45
-64, Hard, Value Iteration, Time Results, 46
-65, Hard, Value Iteration, Time Results, 50
-66, Hard, Value Iteration, Time Results, 49
-67, Hard, Value Iteration, Time Results, 49
-68, Hard, Value Iteration, Time Results, 49
-69, Hard, Value Iteration, Time Results, 51
-70, Hard, Value Iteration, Time Results, 59
-71, Hard, Value Iteration, Time Results, 53
-72, Hard, Value Iteration, Time Results, 52
-73, Hard, Value Iteration, Time Results, 52
-74, Hard, Value Iteration, Time Results, 54
-75, Hard, Value Iteration, Time Results, 54
-76, Hard, Value Iteration, Time Results, 55
-77, Hard, Value Iteration, Time Results, 60
-78, Hard, Value Iteration, Time Results, 61
-79, Hard, Value Iteration, Time Results, 61
-80, Hard, Value Iteration, Time Results, 72
-81, Hard, Value Iteration, Time Results, 89
-82, Hard, Value Iteration, Time Results, 84
-83, Hard, Value Iteration, Time Results, 70
-84, Hard, Value Iteration, Time Results, 61
-85, Hard, Value Iteration, Time Results, 61
-86, Hard, Value Iteration, Time Results, 64
-87, Hard, Value Iteration, Time Results, 64
-88, Hard, Value Iteration, Time Results, 69
-89, Hard, Value Iteration, Time Results, 65
-90, Hard, Value Iteration, Time Results, 69
-91, Hard, Value Iteration, Time Results, 65
-92, Hard, Value Iteration, Time Results, 69
-93, Hard, Value Iteration, Time Results, 71
-94, Hard, Value Iteration, Time Results, 70
-95, Hard, Value Iteration, Time Results, 68
-96, Hard, Value Iteration, Time Results, 69
-97, Hard, Value Iteration, Time Results, 71
-98, Hard, Value Iteration, Time Results, 71
-99, Hard, Value Iteration, Time Results, 72
-100, Hard, Value Iteration, Time Results, 73
-1, Hard, Policy Iteration, Time Results, 5
-2, Hard, Policy Iteration, Time Results, 7
-3, Hard, Policy Iteration, Time Results, 8
-4, Hard, Policy Iteration, Time Results, 10
-5, Hard, Policy Iteration, Time Results, 11
-6, Hard, Policy Iteration, Time Results, 10
-7, Hard, Policy Iteration, Time Results, 12
-8, Hard, Policy Iteration, Time Results, 13
-9, Hard, Policy Iteration, Time Results, 18
-10, Hard, Policy Iteration, Time Results, 16
-11, Hard, Policy Iteration, Time Results, 25
-12, Hard, Policy Iteration, Time Results, 19
-13, Hard, Policy Iteration, Time Results, 19
-14, Hard, Policy Iteration, Time Results, 22
-15, Hard, Policy Iteration, Time Results, 23
-16, Hard, Policy Iteration, Time Results, 25
-17, Hard, Policy Iteration, Time Results, 29
-18, Hard, Policy Iteration, Time Results, 27
-19, Hard, Policy Iteration, Time Results, 28
-20, Hard, Policy Iteration, Time Results, 29
-21, Hard, Policy Iteration, Time Results, 30
-22, Hard, Policy Iteration, Time Results, 30
-23, Hard, Policy Iteration, Time Results, 36
-24, Hard, Policy Iteration, Time Results, 37
-25, Hard, Policy Iteration, Time Results, 35
-26, Hard, Policy Iteration, Time Results, 36
-27, Hard, Policy Iteration, Time Results, 38
-28, Hard, Policy Iteration, Time Results, 40
-29, Hard, Policy Iteration, Time Results, 41
-30, Hard, Policy Iteration, Time Results, 41
-31, Hard, Policy Iteration, Time Results, 43
-32, Hard, Policy Iteration, Time Results, 44
-33, Hard, Policy Iteration, Time Results, 47
-34, Hard, Policy Iteration, Time Results, 48
-35, Hard, Policy Iteration, Time Results, 49
-36, Hard, Policy Iteration, Time Results, 50
-37, Hard, Policy Iteration, Time Results, 50
-38, Hard, Policy Iteration, Time Results, 55
-39, Hard, Policy Iteration, Time Results, 55
-40, Hard, Policy Iteration, Time Results, 56
-41, Hard, Policy Iteration, Time Results, 57
-42, Hard, Policy Iteration, Time Results, 60
-43, Hard, Policy Iteration, Time Results, 62
-44, Hard, Policy Iteration, Time Results, 60
-45, Hard, Policy Iteration, Time Results, 61
-46, Hard, Policy Iteration, Time Results, 63
-47, Hard, Policy Iteration, Time Results, 68
-48, Hard, Policy Iteration, Time Results, 66
-49, Hard, Policy Iteration, Time Results, 69
-50, Hard, Policy Iteration, Time Results, 69
-51, Hard, Policy Iteration, Time Results, 69
-52, Hard, Policy Iteration, Time Results, 74
-53, Hard, Policy Iteration, Time Results, 74
-54, Hard, Policy Iteration, Time Results, 77
-55, Hard, Policy Iteration, Time Results, 75
-56, Hard, Policy Iteration, Time Results, 78
-57, Hard, Policy Iteration, Time Results, 78
-58, Hard, Policy Iteration, Time Results, 81
-59, Hard, Policy Iteration, Time Results, 81
-60, Hard, Policy Iteration, Time Results, 84
-61, Hard, Policy Iteration, Time Results, 90
-62, Hard, Policy Iteration, Time Results, 88
-63, Hard, Policy Iteration, Time Results, 86
-64, Hard, Policy Iteration, Time Results, 89
-65, Hard, Policy Iteration, Time Results, 92
-66, Hard, Policy Iteration, Time Results, 91
-67, Hard, Policy Iteration, Time Results, 93
-68, Hard, Policy Iteration, Time Results, 93
-69, Hard, Policy Iteration, Time Results, 95
-70, Hard, Policy Iteration, Time Results, 96
-71, Hard, Policy Iteration, Time Results, 97
-72, Hard, Policy Iteration, Time Results, 99
-73, Hard, Policy Iteration, Time Results, 100
-74, Hard, Policy Iteration, Time Results, 103
-75, Hard, Policy Iteration, Time Results, 103
-76, Hard, Policy Iteration, Time Results, 106
-77, Hard, Policy Iteration, Time Results, 106
-78, Hard, Policy Iteration, Time Results, 107
-79, Hard, Policy Iteration, Time Results, 111
-80, Hard, Policy Iteration, Time Results, 110
-81, Hard, Policy Iteration, Time Results, 111
-82, Hard, Policy Iteration, Time Results, 112
-83, Hard, Policy Iteration, Time Results, 114
-84, Hard, Policy Iteration, Time Results, 116
-85, Hard, Policy Iteration, Time Results, 118
-86, Hard, Policy Iteration, Time Results, 117
-87, Hard, Policy Iteration, Time Results, 120
-88, Hard, Policy Iteration, Time Results, 121
-89, Hard, Policy Iteration, Time Results, 124
-90, Hard, Policy Iteration, Time Results, 123
-91, Hard, Policy Iteration, Time Results, 124
-92, Hard, Policy Iteration, Time Results, 126
-93, Hard, Policy Iteration, Time Results, 130
-94, Hard, Policy Iteration, Time Results, 128
-95, Hard, Policy Iteration, Time Results, 132
-96, Hard, Policy Iteration, Time Results, 133
-97, Hard, Policy Iteration, Time Results, 134
-98, Hard, Policy Iteration, Time Results, 135
-99, Hard, Policy Iteration, Time Results, 136
-100, Hard, Policy Iteration, Time Results, 137
-1, Hard, Q Learning, Time Results, 4
-2, Hard, Q Learning, Time Results, 3
+23, Hard, Value Iteration, Time Results, 46
+24, Hard, Value Iteration, Time Results, 84
+25, Hard, Value Iteration, Time Results, 85
+26, Hard, Value Iteration, Time Results, 60
+27, Hard, Value Iteration, Time Results, 46
+28, Hard, Value Iteration, Time Results, 42
+29, Hard, Value Iteration, Time Results, 44
+30, Hard, Value Iteration, Time Results, 52
+31, Hard, Value Iteration, Time Results, 41
+32, Hard, Value Iteration, Time Results, 54
+33, Hard, Value Iteration, Time Results, 46
+34, Hard, Value Iteration, Time Results, 50
+35, Hard, Value Iteration, Time Results, 41
+36, Hard, Value Iteration, Time Results, 44
+37, Hard, Value Iteration, Time Results, 107
+38, Hard, Value Iteration, Time Results, 106
+39, Hard, Value Iteration, Time Results, 88
+40, Hard, Value Iteration, Time Results, 56
+41, Hard, Value Iteration, Time Results, 47
+42, Hard, Value Iteration, Time Results, 43
+43, Hard, Value Iteration, Time Results, 47
+44, Hard, Value Iteration, Time Results, 50
+45, Hard, Value Iteration, Time Results, 72
+46, Hard, Value Iteration, Time Results, 54
+47, Hard, Value Iteration, Time Results, 71
+48, Hard, Value Iteration, Time Results, 88
+49, Hard, Value Iteration, Time Results, 64
+50, Hard, Value Iteration, Time Results, 63
+51, Hard, Value Iteration, Time Results, 159
+52, Hard, Value Iteration, Time Results, 171
+53, Hard, Value Iteration, Time Results, 139
+54, Hard, Value Iteration, Time Results, 76
+55, Hard, Value Iteration, Time Results, 71
+56, Hard, Value Iteration, Time Results, 78
+57, Hard, Value Iteration, Time Results, 110
+58, Hard, Value Iteration, Time Results, 91
+59, Hard, Value Iteration, Time Results, 115
+60, Hard, Value Iteration, Time Results, 78
+61, Hard, Value Iteration, Time Results, 83
+62, Hard, Value Iteration, Time Results, 99
+63, Hard, Value Iteration, Time Results, 82
+64, Hard, Value Iteration, Time Results, 83
+65, Hard, Value Iteration, Time Results, 117
+66, Hard, Value Iteration, Time Results, 112
+67, Hard, Value Iteration, Time Results, 95
+68, Hard, Value Iteration, Time Results, 82
+69, Hard, Value Iteration, Time Results, 81
+70, Hard, Value Iteration, Time Results, 94
+71, Hard, Value Iteration, Time Results, 98
+72, Hard, Value Iteration, Time Results, 91
+73, Hard, Value Iteration, Time Results, 91
+74, Hard, Value Iteration, Time Results, 82
+75, Hard, Value Iteration, Time Results, 90
+76, Hard, Value Iteration, Time Results, 109
+77, Hard, Value Iteration, Time Results, 132
+78, Hard, Value Iteration, Time Results, 93
+79, Hard, Value Iteration, Time Results, 126
+80, Hard, Value Iteration, Time Results, 111
+81, Hard, Value Iteration, Time Results, 119
+82, Hard, Value Iteration, Time Results, 99
+83, Hard, Value Iteration, Time Results, 98
+84, Hard, Value Iteration, Time Results, 87
+85, Hard, Value Iteration, Time Results, 103
+86, Hard, Value Iteration, Time Results, 89
+87, Hard, Value Iteration, Time Results, 93
+88, Hard, Value Iteration, Time Results, 118
+89, Hard, Value Iteration, Time Results, 139
+90, Hard, Value Iteration, Time Results, 112
+91, Hard, Value Iteration, Time Results, 119
+92, Hard, Value Iteration, Time Results, 138
+93, Hard, Value Iteration, Time Results, 146
+94, Hard, Value Iteration, Time Results, 115
+95, Hard, Value Iteration, Time Results, 142
+96, Hard, Value Iteration, Time Results, 171
+97, Hard, Value Iteration, Time Results, 123
+98, Hard, Value Iteration, Time Results, 146
+99, Hard, Value Iteration, Time Results, 127
+100, Hard, Value Iteration, Time Results, 120
+1, Hard, Policy Iteration, Time Results, 14
+2, Hard, Policy Iteration, Time Results, 10
+3, Hard, Policy Iteration, Time Results, 11
+4, Hard, Policy Iteration, Time Results, 11
+5, Hard, Policy Iteration, Time Results, 26
+6, Hard, Policy Iteration, Time Results, 21
+7, Hard, Policy Iteration, Time Results, 24
+8, Hard, Policy Iteration, Time Results, 31
+9, Hard, Policy Iteration, Time Results, 44
+10, Hard, Policy Iteration, Time Results, 43
+11, Hard, Policy Iteration, Time Results, 45
+12, Hard, Policy Iteration, Time Results, 51
+13, Hard, Policy Iteration, Time Results, 40
+14, Hard, Policy Iteration, Time Results, 66
+15, Hard, Policy Iteration, Time Results, 43
+16, Hard, Policy Iteration, Time Results, 43
+17, Hard, Policy Iteration, Time Results, 71
+18, Hard, Policy Iteration, Time Results, 68
+19, Hard, Policy Iteration, Time Results, 74
+20, Hard, Policy Iteration, Time Results, 76
+21, Hard, Policy Iteration, Time Results, 62
+22, Hard, Policy Iteration, Time Results, 65
+23, Hard, Policy Iteration, Time Results, 55
+24, Hard, Policy Iteration, Time Results, 63
+25, Hard, Policy Iteration, Time Results, 52
+26, Hard, Policy Iteration, Time Results, 51
+27, Hard, Policy Iteration, Time Results, 55
+28, Hard, Policy Iteration, Time Results, 61
+29, Hard, Policy Iteration, Time Results, 68
+30, Hard, Policy Iteration, Time Results, 61
+31, Hard, Policy Iteration, Time Results, 65
+32, Hard, Policy Iteration, Time Results, 74
+33, Hard, Policy Iteration, Time Results, 66
+34, Hard, Policy Iteration, Time Results, 67
+35, Hard, Policy Iteration, Time Results, 73
+36, Hard, Policy Iteration, Time Results, 85
+37, Hard, Policy Iteration, Time Results, 76
+38, Hard, Policy Iteration, Time Results, 83
+39, Hard, Policy Iteration, Time Results, 83
+40, Hard, Policy Iteration, Time Results, 112
+41, Hard, Policy Iteration, Time Results, 93
+42, Hard, Policy Iteration, Time Results, 104
+43, Hard, Policy Iteration, Time Results, 101
+44, Hard, Policy Iteration, Time Results, 105
+45, Hard, Policy Iteration, Time Results, 117
+46, Hard, Policy Iteration, Time Results, 95
+47, Hard, Policy Iteration, Time Results, 115
+48, Hard, Policy Iteration, Time Results, 107
+49, Hard, Policy Iteration, Time Results, 124
+50, Hard, Policy Iteration, Time Results, 125
+51, Hard, Policy Iteration, Time Results, 126
+52, Hard, Policy Iteration, Time Results, 111
+53, Hard, Policy Iteration, Time Results, 151
+54, Hard, Policy Iteration, Time Results, 170
+55, Hard, Policy Iteration, Time Results, 132
+56, Hard, Policy Iteration, Time Results, 111
+57, Hard, Policy Iteration, Time Results, 157
+58, Hard, Policy Iteration, Time Results, 176
+59, Hard, Policy Iteration, Time Results, 143
+60, Hard, Policy Iteration, Time Results, 185
+61, Hard, Policy Iteration, Time Results, 135
+62, Hard, Policy Iteration, Time Results, 150
+63, Hard, Policy Iteration, Time Results, 159
+64, Hard, Policy Iteration, Time Results, 157
+65, Hard, Policy Iteration, Time Results, 169
+66, Hard, Policy Iteration, Time Results, 176
+67, Hard, Policy Iteration, Time Results, 159
+68, Hard, Policy Iteration, Time Results, 148
+69, Hard, Policy Iteration, Time Results, 170
+70, Hard, Policy Iteration, Time Results, 140
+71, Hard, Policy Iteration, Time Results, 188
+72, Hard, Policy Iteration, Time Results, 174
+73, Hard, Policy Iteration, Time Results, 145
+74, Hard, Policy Iteration, Time Results, 136
+75, Hard, Policy Iteration, Time Results, 149
+76, Hard, Policy Iteration, Time Results, 175
+77, Hard, Policy Iteration, Time Results, 190
+78, Hard, Policy Iteration, Time Results, 195
+79, Hard, Policy Iteration, Time Results, 191
+80, Hard, Policy Iteration, Time Results, 209
+81, Hard, Policy Iteration, Time Results, 201
+82, Hard, Policy Iteration, Time Results, 221
+83, Hard, Policy Iteration, Time Results, 213
+84, Hard, Policy Iteration, Time Results, 213
+85, Hard, Policy Iteration, Time Results, 201
+86, Hard, Policy Iteration, Time Results, 189
+87, Hard, Policy Iteration, Time Results, 222
+88, Hard, Policy Iteration, Time Results, 208
+89, Hard, Policy Iteration, Time Results, 207
+90, Hard, Policy Iteration, Time Results, 199
+91, Hard, Policy Iteration, Time Results, 244
+92, Hard, Policy Iteration, Time Results, 244
+93, Hard, Policy Iteration, Time Results, 206
+94, Hard, Policy Iteration, Time Results, 238
+95, Hard, Policy Iteration, Time Results, 252
+96, Hard, Policy Iteration, Time Results, 229
+97, Hard, Policy Iteration, Time Results, 226
+98, Hard, Policy Iteration, Time Results, 204
+99, Hard, Policy Iteration, Time Results, 215
+100, Hard, Policy Iteration, Time Results, 229
+1, Hard, Q Learning, Time Results, 40
+2, Hard, Q Learning, Time Results, 5
 3, Hard, Q Learning, Time Results, 4
 4, Hard, Q Learning, Time Results, 6
-5, Hard, Q Learning, Time Results, 5
-6, Hard, Q Learning, Time Results, 4
-7, Hard, Q Learning, Time Results, 6
-8, Hard, Q Learning, Time Results, 6
-9, Hard, Q Learning, Time Results, 6
-10, Hard, Q Learning, Time Results, 7
-11, Hard, Q Learning, Time Results, 6
-12, Hard, Q Learning, Time Results, 8
-13, Hard, Q Learning, Time Results, 6
-14, Hard, Q Learning, Time Results, 7
-15, Hard, Q Learning, Time Results, 6
-16, Hard, Q Learning, Time Results, 12
-17, Hard, Q Learning, Time Results, 6
-18, Hard, Q Learning, Time Results, 6
-19, Hard, Q Learning, Time Results, 5
-20, Hard, Q Learning, Time Results, 6
-21, Hard, Q Learning, Time Results, 6
-22, Hard, Q Learning, Time Results, 7
-23, Hard, Q Learning, Time Results, 7
-24, Hard, Q Learning, Time Results, 8
-25, Hard, Q Learning, Time Results, 8
-26, Hard, Q Learning, Time Results, 8
-27, Hard, Q Learning, Time Results, 9
-28, Hard, Q Learning, Time Results, 8
-29, Hard, Q Learning, Time Results, 10
-30, Hard, Q Learning, Time Results, 10
-31, Hard, Q Learning, Time Results, 9
-32, Hard, Q Learning, Time Results, 11
-33, Hard, Q Learning, Time Results, 9
-34, Hard, Q Learning, Time Results, 9
-35, Hard, Q Learning, Time Results, 9
-36, Hard, Q Learning, Time Results, 9
-37, Hard, Q Learning, Time Results, 9
-38, Hard, Q Learning, Time Results, 9
+5, Hard, Q Learning, Time Results, 8
+6, Hard, Q Learning, Time Results, 5
+7, Hard, Q Learning, Time Results, 8
+8, Hard, Q Learning, Time Results, 9
+9, Hard, Q Learning, Time Results, 12
+10, Hard, Q Learning, Time Results, 12
+11, Hard, Q Learning, Time Results, 8
+12, Hard, Q Learning, Time Results, 11
+13, Hard, Q Learning, Time Results, 9
+14, Hard, Q Learning, Time Results, 14
+15, Hard, Q Learning, Time Results, 12
+16, Hard, Q Learning, Time Results, 18
+17, Hard, Q Learning, Time Results, 18
+18, Hard, Q Learning, Time Results, 19
+19, Hard, Q Learning, Time Results, 16
+20, Hard, Q Learning, Time Results, 14
+21, Hard, Q Learning, Time Results, 19
+22, Hard, Q Learning, Time Results, 14
+23, Hard, Q Learning, Time Results, 15
+24, Hard, Q Learning, Time Results, 12
+25, Hard, Q Learning, Time Results, 11
+26, Hard, Q Learning, Time Results, 12
+27, Hard, Q Learning, Time Results, 12
+28, Hard, Q Learning, Time Results, 13
+29, Hard, Q Learning, Time Results, 12
+30, Hard, Q Learning, Time Results, 18
+31, Hard, Q Learning, Time Results, 13
+32, Hard, Q Learning, Time Results, 13
+33, Hard, Q Learning, Time Results, 15
+34, Hard, Q Learning, Time Results, 15
+35, Hard, Q Learning, Time Results, 15
+36, Hard, Q Learning, Time Results, 15
+37, Hard, Q Learning, Time Results, 17
+38, Hard, Q Learning, Time Results, 14
 39, Hard, Q Learning, Time Results, 14
-40, Hard, Q Learning, Time Results, 10
-41, Hard, Q Learning, Time Results, 10
-42, Hard, Q Learning, Time Results, 10
-43, Hard, Q Learning, Time Results, 10
-44, Hard, Q Learning, Time Results, 9
-45, Hard, Q Learning, Time Results, 12
-46, Hard, Q Learning, Time Results, 10
-47, Hard, Q Learning, Time Results, 10
-48, Hard, Q Learning, Time Results, 11
-49, Hard, Q Learning, Time Results, 11
-50, Hard, Q Learning, Time Results, 10
-51, Hard, Q Learning, Time Results, 12
-52, Hard, Q Learning, Time Results, 11
-53, Hard, Q Learning, Time Results, 12
-54, Hard, Q Learning, Time Results, 12
-55, Hard, Q Learning, Time Results, 10
-56, Hard, Q Learning, Time Results, 13
-57, Hard, Q Learning, Time Results, 14
-58, Hard, Q Learning, Time Results, 16
-59, Hard, Q Learning, Time Results, 12
-60, Hard, Q Learning, Time Results, 12
-61, Hard, Q Learning, Time Results, 11
-62, Hard, Q Learning, Time Results, 13
-63, Hard, Q Learning, Time Results, 14
-64, Hard, Q Learning, Time Results, 13
-65, Hard, Q Learning, Time Results, 13
-66, Hard, Q Learning, Time Results, 14
-67, Hard, Q Learning, Time Results, 15
-68, Hard, Q Learning, Time Results, 12
-69, Hard, Q Learning, Time Results, 14
-70, Hard, Q Learning, Time Results, 12
-71, Hard, Q Learning, Time Results, 14
-72, Hard, Q Learning, Time Results, 14
-73, Hard, Q Learning, Time Results, 14
-74, Hard, Q Learning, Time Results, 16
-75, Hard, Q Learning, Time Results, 13
-76, Hard, Q Learning, Time Results, 16
-77, Hard, Q Learning, Time Results, 14
-78, Hard, Q Learning, Time Results, 13
-79, Hard, Q Learning, Time Results, 14
-80, Hard, Q Learning, Time Results, 15
-81, Hard, Q Learning, Time Results, 14
-82, Hard, Q Learning, Time Results, 16
-83, Hard, Q Learning, Time Results, 17
-84, Hard, Q Learning, Time Results, 15
-85, Hard, Q Learning, Time Results, 16
-86, Hard, Q Learning, Time Results, 15
-87, Hard, Q Learning, Time Results, 17
-88, Hard, Q Learning, Time Results, 21
-89, Hard, Q Learning, Time Results, 15
-90, Hard, Q Learning, Time Results, 16
-91, Hard, Q Learning, Time Results, 19
-92, Hard, Q Learning, Time Results, 19
-93, Hard, Q Learning, Time Results, 17
-94, Hard, Q Learning, Time Results, 17
-95, Hard, Q Learning, Time Results, 16
-96, Hard, Q Learning, Time Results, 15
-97, Hard, Q Learning, Time Results, 16
-98, Hard, Q Learning, Time Results, 15
-99, Hard, Q Learning, Time Results, 18
-100, Hard, Q Learning, Time Results, 20
-1, Hard, Value Iteration, Rewards, -3356.0
-2, Hard, Value Iteration, Rewards, -1399.0
-3, Hard, Value Iteration, Rewards, -3708.0
-4, Hard, Value Iteration, Rewards, 46.0
-5, Hard, Value Iteration, Rewards, 61.0
-6, Hard, Value Iteration, Rewards, 69.0
-7, Hard, Value Iteration, Rewards, 67.0
-8, Hard, Value Iteration, Rewards, 64.0
-9, Hard, Value Iteration, Rewards, 75.0
-10, Hard, Value Iteration, Rewards, 73.0
-11, Hard, Value Iteration, Rewards, 70.0
-12, Hard, Value Iteration, Rewards, 79.0
+40, Hard, Q Learning, Time Results, 23
+41, Hard, Q Learning, Time Results, 14
+42, Hard, Q Learning, Time Results, 13
+43, Hard, Q Learning, Time Results, 18
+44, Hard, Q Learning, Time Results, 15
+45, Hard, Q Learning, Time Results, 28
+46, Hard, Q Learning, Time Results, 27
+47, Hard, Q Learning, Time Results, 22
+48, Hard, Q Learning, Time Results, 18
+49, Hard, Q Learning, Time Results, 24
+50, Hard, Q Learning, Time Results, 17
+51, Hard, Q Learning, Time Results, 17
+52, Hard, Q Learning, Time Results, 14
+53, Hard, Q Learning, Time Results, 20
+54, Hard, Q Learning, Time Results, 22
+55, Hard, Q Learning, Time Results, 13
+56, Hard, Q Learning, Time Results, 15
+57, Hard, Q Learning, Time Results, 18
+58, Hard, Q Learning, Time Results, 32
+59, Hard, Q Learning, Time Results, 20
+60, Hard, Q Learning, Time Results, 29
+61, Hard, Q Learning, Time Results, 22
+62, Hard, Q Learning, Time Results, 24
+63, Hard, Q Learning, Time Results, 16
+64, Hard, Q Learning, Time Results, 19
+65, Hard, Q Learning, Time Results, 22
+66, Hard, Q Learning, Time Results, 27
+67, Hard, Q Learning, Time Results, 28
+68, Hard, Q Learning, Time Results, 20
+69, Hard, Q Learning, Time Results, 23
+70, Hard, Q Learning, Time Results, 23
+71, Hard, Q Learning, Time Results, 22
+72, Hard, Q Learning, Time Results, 23
+73, Hard, Q Learning, Time Results, 29
+74, Hard, Q Learning, Time Results, 18
+75, Hard, Q Learning, Time Results, 24
+76, Hard, Q Learning, Time Results, 32
+77, Hard, Q Learning, Time Results, 34
+78, Hard, Q Learning, Time Results, 20
+79, Hard, Q Learning, Time Results, 26
+80, Hard, Q Learning, Time Results, 28
+81, Hard, Q Learning, Time Results, 28
+82, Hard, Q Learning, Time Results, 26
+83, Hard, Q Learning, Time Results, 24
+84, Hard, Q Learning, Time Results, 29
+85, Hard, Q Learning, Time Results, 31
+86, Hard, Q Learning, Time Results, 33
+87, Hard, Q Learning, Time Results, 25
+88, Hard, Q Learning, Time Results, 25
+89, Hard, Q Learning, Time Results, 28
+90, Hard, Q Learning, Time Results, 38
+91, Hard, Q Learning, Time Results, 40
+92, Hard, Q Learning, Time Results, 27
+93, Hard, Q Learning, Time Results, 25
+94, Hard, Q Learning, Time Results, 24
+95, Hard, Q Learning, Time Results, 26
+96, Hard, Q Learning, Time Results, 26
+97, Hard, Q Learning, Time Results, 23
+98, Hard, Q Learning, Time Results, 26
+99, Hard, Q Learning, Time Results, 25
+100, Hard, Q Learning, Time Results, 23
+1, Hard, Value Iteration, Rewards, -916.0
+2, Hard, Value Iteration, Rewards, -4670.0
+3, Hard, Value Iteration, Rewards, -278.0
+4, Hard, Value Iteration, Rewards, -39.0
+5, Hard, Value Iteration, Rewards, 64.0
+6, Hard, Value Iteration, Rewards, 70.0
+7, Hard, Value Iteration, Rewards, 77.0
+8, Hard, Value Iteration, Rewards, 81.0
+9, Hard, Value Iteration, Rewards, 73.0
+10, Hard, Value Iteration, Rewards, 71.0
+11, Hard, Value Iteration, Rewards, 69.0
+12, Hard, Value Iteration, Rewards, 72.0
 13, Hard, Value Iteration, Rewards, 70.0
-14, Hard, Value Iteration, Rewards, 72.0
-15, Hard, Value Iteration, Rewards, 73.0
-16, Hard, Value Iteration, Rewards, 72.0
-17, Hard, Value Iteration, Rewards, 77.0
+14, Hard, Value Iteration, Rewards, 75.0
+15, Hard, Value Iteration, Rewards, 81.0
+16, Hard, Value Iteration, Rewards, 74.0
+17, Hard, Value Iteration, Rewards, 67.0
 18, Hard, Value Iteration, Rewards, 77.0
-19, Hard, Value Iteration, Rewards, 72.0
-20, Hard, Value Iteration, Rewards, 77.0
+19, Hard, Value Iteration, Rewards, 70.0
+20, Hard, Value Iteration, Rewards, 72.0
 21, Hard, Value Iteration, Rewards, 76.0
-22, Hard, Value Iteration, Rewards, 75.0
-23, Hard, Value Iteration, Rewards, 78.0
-24, Hard, Value Iteration, Rewards, 75.0
-25, Hard, Value Iteration, Rewards, 73.0
-26, Hard, Value Iteration, Rewards, 69.0
-27, Hard, Value Iteration, Rewards, 68.0
-28, Hard, Value Iteration, Rewards, 79.0
+22, Hard, Value Iteration, Rewards, 76.0
+23, Hard, Value Iteration, Rewards, 66.0
+24, Hard, Value Iteration, Rewards, 74.0
+25, Hard, Value Iteration, Rewards, 80.0
+26, Hard, Value Iteration, Rewards, 80.0
+27, Hard, Value Iteration, Rewards, 77.0
+28, Hard, Value Iteration, Rewards, 76.0
 29, Hard, Value Iteration, Rewards, 75.0
-30, Hard, Value Iteration, Rewards, 77.0
-31, Hard, Value Iteration, Rewards, 75.0
-32, Hard, Value Iteration, Rewards, 80.0
-33, Hard, Value Iteration, Rewards, 77.0
-34, Hard, Value Iteration, Rewards, 74.0
-35, Hard, Value Iteration, Rewards, 74.0
-36, Hard, Value Iteration, Rewards, 76.0
-37, Hard, Value Iteration, Rewards, 72.0
-38, Hard, Value Iteration, Rewards, 73.0
-39, Hard, Value Iteration, Rewards, 73.0
-40, Hard, Value Iteration, Rewards, 72.0
-41, Hard, Value Iteration, Rewards, 76.0
-42, Hard, Value Iteration, Rewards, 79.0
-43, Hard, Value Iteration, Rewards, 69.0
+30, Hard, Value Iteration, Rewards, 78.0
+31, Hard, Value Iteration, Rewards, 79.0
+32, Hard, Value Iteration, Rewards, 71.0
+33, Hard, Value Iteration, Rewards, 72.0
+34, Hard, Value Iteration, Rewards, 77.0
+35, Hard, Value Iteration, Rewards, 78.0
+36, Hard, Value Iteration, Rewards, 80.0
+37, Hard, Value Iteration, Rewards, 71.0
+38, Hard, Value Iteration, Rewards, 75.0
+39, Hard, Value Iteration, Rewards, 79.0
+40, Hard, Value Iteration, Rewards, 68.0
+41, Hard, Value Iteration, Rewards, 74.0
+42, Hard, Value Iteration, Rewards, 75.0
+43, Hard, Value Iteration, Rewards, 72.0
 44, Hard, Value Iteration, Rewards, 78.0
-45, Hard, Value Iteration, Rewards, 69.0
-46, Hard, Value Iteration, Rewards, 70.0
-47, Hard, Value Iteration, Rewards, 78.0
-48, Hard, Value Iteration, Rewards, 73.0
-49, Hard, Value Iteration, Rewards, 77.0
-50, Hard, Value Iteration, Rewards, 71.0
-51, Hard, Value Iteration, Rewards, 74.0
-52, Hard, Value Iteration, Rewards, 71.0
-53, Hard, Value Iteration, Rewards, 69.0
-54, Hard, Value Iteration, Rewards, 66.0
-55, Hard, Value Iteration, Rewards, 81.0
-56, Hard, Value Iteration, Rewards, 76.0
-57, Hard, Value Iteration, Rewards, 81.0
-58, Hard, Value Iteration, Rewards, 75.0
-59, Hard, Value Iteration, Rewards, 73.0
+45, Hard, Value Iteration, Rewards, 79.0
+46, Hard, Value Iteration, Rewards, 72.0
+47, Hard, Value Iteration, Rewards, 76.0
+48, Hard, Value Iteration, Rewards, 69.0
+49, Hard, Value Iteration, Rewards, 74.0
+50, Hard, Value Iteration, Rewards, 79.0
+51, Hard, Value Iteration, Rewards, 80.0
+52, Hard, Value Iteration, Rewards, 78.0
+53, Hard, Value Iteration, Rewards, 70.0
+54, Hard, Value Iteration, Rewards, 77.0
+55, Hard, Value Iteration, Rewards, 79.0
+56, Hard, Value Iteration, Rewards, 78.0
+57, Hard, Value Iteration, Rewards, 79.0
+58, Hard, Value Iteration, Rewards, 73.0
+59, Hard, Value Iteration, Rewards, 72.0
 60, Hard, Value Iteration, Rewards, 66.0
-61, Hard, Value Iteration, Rewards, 70.0
-62, Hard, Value Iteration, Rewards, 73.0
-63, Hard, Value Iteration, Rewards, 76.0
-64, Hard, Value Iteration, Rewards, 76.0
-65, Hard, Value Iteration, Rewards, 68.0
-66, Hard, Value Iteration, Rewards, 75.0
-67, Hard, Value Iteration, Rewards, 76.0
-68, Hard, Value Iteration, Rewards, 73.0
-69, Hard, Value Iteration, Rewards, 70.0
-70, Hard, Value Iteration, Rewards, 80.0
-71, Hard, Value Iteration, Rewards, 78.0
-72, Hard, Value Iteration, Rewards, 72.0
-73, Hard, Value Iteration, Rewards, 76.0
-74, Hard, Value Iteration, Rewards, 79.0
-75, Hard, Value Iteration, Rewards, 81.0
-76, Hard, Value Iteration, Rewards, 78.0
-77, Hard, Value Iteration, Rewards, 76.0
-78, Hard, Value Iteration, Rewards, 75.0
-79, Hard, Value Iteration, Rewards, 81.0
-80, Hard, Value Iteration, Rewards, 79.0
-81, Hard, Value Iteration, Rewards, 74.0
-82, Hard, Value Iteration, Rewards, 75.0
-83, Hard, Value Iteration, Rewards, 72.0
-84, Hard, Value Iteration, Rewards, 67.0
-85, Hard, Value Iteration, Rewards, 76.0
-86, Hard, Value Iteration, Rewards, 76.0
-87, Hard, Value Iteration, Rewards, 76.0
-88, Hard, Value Iteration, Rewards, 77.0
-89, Hard, Value Iteration, Rewards, 79.0
-90, Hard, Value Iteration, Rewards, 75.0
-91, Hard, Value Iteration, Rewards, 80.0
-92, Hard, Value Iteration, Rewards, 71.0
-93, Hard, Value Iteration, Rewards, 70.0
-94, Hard, Value Iteration, Rewards, 76.0
-95, Hard, Value Iteration, Rewards, 78.0
-96, Hard, Value Iteration, Rewards, 76.0
-97, Hard, Value Iteration, Rewards, 76.0
-98, Hard, Value Iteration, Rewards, 77.0
+61, Hard, Value Iteration, Rewards, 75.0
+62, Hard, Value Iteration, Rewards, 80.0
+63, Hard, Value Iteration, Rewards, 74.0
+64, Hard, Value Iteration, Rewards, 79.0
+65, Hard, Value Iteration, Rewards, 80.0
+66, Hard, Value Iteration, Rewards, 72.0
+67, Hard, Value Iteration, Rewards, 77.0
+68, Hard, Value Iteration, Rewards, 75.0
+69, Hard, Value Iteration, Rewards, 72.0
+70, Hard, Value Iteration, Rewards, 78.0
+71, Hard, Value Iteration, Rewards, 77.0
+72, Hard, Value Iteration, Rewards, 81.0
+73, Hard, Value Iteration, Rewards, 73.0
+74, Hard, Value Iteration, Rewards, 73.0
+75, Hard, Value Iteration, Rewards, 69.0
+76, Hard, Value Iteration, Rewards, 81.0
+77, Hard, Value Iteration, Rewards, 81.0
+78, Hard, Value Iteration, Rewards, 81.0
+79, Hard, Value Iteration, Rewards, 76.0
+80, Hard, Value Iteration, Rewards, 77.0
+81, Hard, Value Iteration, Rewards, 81.0
+82, Hard, Value Iteration, Rewards, 76.0
+83, Hard, Value Iteration, Rewards, 71.0
+84, Hard, Value Iteration, Rewards, 71.0
+85, Hard, Value Iteration, Rewards, 78.0
+86, Hard, Value Iteration, Rewards, 72.0
+87, Hard, Value Iteration, Rewards, 79.0
+88, Hard, Value Iteration, Rewards, 65.0
+89, Hard, Value Iteration, Rewards, 77.0
+90, Hard, Value Iteration, Rewards, 68.0
+91, Hard, Value Iteration, Rewards, 69.0
+92, Hard, Value Iteration, Rewards, 79.0
+93, Hard, Value Iteration, Rewards, 79.0
+94, Hard, Value Iteration, Rewards, 74.0
+95, Hard, Value Iteration, Rewards, 69.0
+96, Hard, Value Iteration, Rewards, 78.0
+97, Hard, Value Iteration, Rewards, 80.0
+98, Hard, Value Iteration, Rewards, 79.0
 99, Hard, Value Iteration, Rewards, 70.0
-100, Hard, Value Iteration, Rewards, 65.0
-1, Hard, Policy Iteration, Rewards, -2067.0
-2, Hard, Policy Iteration, Rewards, -1016.0
-3, Hard, Policy Iteration, Rewards, -3271.0
-4, Hard, Policy Iteration, Rewards, -764.0
-5, Hard, Policy Iteration, Rewards, -1987.0
-6, Hard, Policy Iteration, Rewards, -3003.0
-7, Hard, Policy Iteration, Rewards, 48.0
-8, Hard, Policy Iteration, Rewards, 49.0
-9, Hard, Policy Iteration, Rewards, 65.0
-10, Hard, Policy Iteration, Rewards, 72.0
-11, Hard, Policy Iteration, Rewards, 81.0
-12, Hard, Policy Iteration, Rewards, 78.0
-13, Hard, Policy Iteration, Rewards, 78.0
-14, Hard, Policy Iteration, Rewards, 76.0
-15, Hard, Policy Iteration, Rewards, 70.0
-16, Hard, Policy Iteration, Rewards, 80.0
-17, Hard, Policy Iteration, Rewards, 80.0
-18, Hard, Policy Iteration, Rewards, 78.0
-19, Hard, Policy Iteration, Rewards, 80.0
-20, Hard, Policy Iteration, Rewards, 66.0
-21, Hard, Policy Iteration, Rewards, 75.0
+100, Hard, Value Iteration, Rewards, 77.0
+1, Hard, Policy Iteration, Rewards, -2210.0
+2, Hard, Policy Iteration, Rewards, -1705.0
+3, Hard, Policy Iteration, Rewards, -2200.0
+4, Hard, Policy Iteration, Rewards, -141.0
+5, Hard, Policy Iteration, Rewards, -1476.0
+6, Hard, Policy Iteration, Rewards, -38.0
+7, Hard, Policy Iteration, Rewards, -12.0
+8, Hard, Policy Iteration, Rewards, 39.0
+9, Hard, Policy Iteration, Rewards, 72.0
+10, Hard, Policy Iteration, Rewards, 66.0
+11, Hard, Policy Iteration, Rewards, 77.0
+12, Hard, Policy Iteration, Rewards, 72.0
+13, Hard, Policy Iteration, Rewards, 64.0
+14, Hard, Policy Iteration, Rewards, 77.0
+15, Hard, Policy Iteration, Rewards, 77.0
+16, Hard, Policy Iteration, Rewards, 74.0
+17, Hard, Policy Iteration, Rewards, 78.0
+18, Hard, Policy Iteration, Rewards, 77.0
+19, Hard, Policy Iteration, Rewards, 72.0
+20, Hard, Policy Iteration, Rewards, 76.0
+21, Hard, Policy Iteration, Rewards, 79.0
 22, Hard, Policy Iteration, Rewards, 77.0
-23, Hard, Policy Iteration, Rewards, 77.0
-24, Hard, Policy Iteration, Rewards, 72.0
-25, Hard, Policy Iteration, Rewards, 76.0
-26, Hard, Policy Iteration, Rewards, 58.0
-27, Hard, Policy Iteration, Rewards, 78.0
-28, Hard, Policy Iteration, Rewards, 59.0
-29, Hard, Policy Iteration, Rewards, 74.0
-30, Hard, Policy Iteration, Rewards, 56.0
-31, Hard, Policy Iteration, Rewards, 75.0
-32, Hard, Policy Iteration, Rewards, 69.0
-33, Hard, Policy Iteration, Rewards, 78.0
-34, Hard, Policy Iteration, Rewards, 76.0
+23, Hard, Policy Iteration, Rewards, 80.0
+24, Hard, Policy Iteration, Rewards, 76.0
+25, Hard, Policy Iteration, Rewards, 72.0
+26, Hard, Policy Iteration, Rewards, 71.0
+27, Hard, Policy Iteration, Rewards, 76.0
+28, Hard, Policy Iteration, Rewards, 77.0
+29, Hard, Policy Iteration, Rewards, 75.0
+30, Hard, Policy Iteration, Rewards, 66.0
+31, Hard, Policy Iteration, Rewards, 78.0
+32, Hard, Policy Iteration, Rewards, 76.0
+33, Hard, Policy Iteration, Rewards, 76.0
+34, Hard, Policy Iteration, Rewards, 75.0
 35, Hard, Policy Iteration, Rewards, 75.0
-36, Hard, Policy Iteration, Rewards, 79.0
-37, Hard, Policy Iteration, Rewards, 64.0
-38, Hard, Policy Iteration, Rewards, 73.0
-39, Hard, Policy Iteration, Rewards, 79.0
-40, Hard, Policy Iteration, Rewards, 72.0
-41, Hard, Policy Iteration, Rewards, 79.0
-42, Hard, Policy Iteration, Rewards, 71.0
-43, Hard, Policy Iteration, Rewards, 63.0
-44, Hard, Policy Iteration, Rewards, 69.0
-45, Hard, Policy Iteration, Rewards, 77.0
-46, Hard, Policy Iteration, Rewards, 74.0
-47, Hard, Policy Iteration, Rewards, 70.0
+36, Hard, Policy Iteration, Rewards, 81.0
+37, Hard, Policy Iteration, Rewards, 74.0
+38, Hard, Policy Iteration, Rewards, 71.0
+39, Hard, Policy Iteration, Rewards, 70.0
+40, Hard, Policy Iteration, Rewards, 66.0
+41, Hard, Policy Iteration, Rewards, 76.0
+42, Hard, Policy Iteration, Rewards, 77.0
+43, Hard, Policy Iteration, Rewards, 75.0
+44, Hard, Policy Iteration, Rewards, 78.0
+45, Hard, Policy Iteration, Rewards, 70.0
+46, Hard, Policy Iteration, Rewards, 78.0
+47, Hard, Policy Iteration, Rewards, 73.0
 48, Hard, Policy Iteration, Rewards, 69.0
-49, Hard, Policy Iteration, Rewards, 80.0
-50, Hard, Policy Iteration, Rewards, 75.0
-51, Hard, Policy Iteration, Rewards, 77.0
-52, Hard, Policy Iteration, Rewards, 74.0
-53, Hard, Policy Iteration, Rewards, 77.0
-54, Hard, Policy Iteration, Rewards, 80.0
-55, Hard, Policy Iteration, Rewards, 72.0
-56, Hard, Policy Iteration, Rewards, 76.0
-57, Hard, Policy Iteration, Rewards, 76.0
-58, Hard, Policy Iteration, Rewards, 71.0
-59, Hard, Policy Iteration, Rewards, 78.0
-60, Hard, Policy Iteration, Rewards, 73.0
-61, Hard, Policy Iteration, Rewards, 74.0
-62, Hard, Policy Iteration, Rewards, 79.0
-63, Hard, Policy Iteration, Rewards, 71.0
-64, Hard, Policy Iteration, Rewards, 75.0
-65, Hard, Policy Iteration, Rewards, 74.0
-66, Hard, Policy Iteration, Rewards, 77.0
-67, Hard, Policy Iteration, Rewards, 78.0
-68, Hard, Policy Iteration, Rewards, 77.0
-69, Hard, Policy Iteration, Rewards, 76.0
-70, Hard, Policy Iteration, Rewards, 79.0
-71, Hard, Policy Iteration, Rewards, 79.0
-72, Hard, Policy Iteration, Rewards, 72.0
-73, Hard, Policy Iteration, Rewards, 77.0
-74, Hard, Policy Iteration, Rewards, 74.0
-75, Hard, Policy Iteration, Rewards, 78.0
-76, Hard, Policy Iteration, Rewards, 80.0
-77, Hard, Policy Iteration, Rewards, 76.0
-78, Hard, Policy Iteration, Rewards, 77.0
+49, Hard, Policy Iteration, Rewards, 79.0
+50, Hard, Policy Iteration, Rewards, 76.0
+51, Hard, Policy Iteration, Rewards, 72.0
+52, Hard, Policy Iteration, Rewards, 71.0
+53, Hard, Policy Iteration, Rewards, 78.0
+54, Hard, Policy Iteration, Rewards, 76.0
+55, Hard, Policy Iteration, Rewards, 62.0
+56, Hard, Policy Iteration, Rewards, 80.0
+57, Hard, Policy Iteration, Rewards, 67.0
+58, Hard, Policy Iteration, Rewards, 74.0
+59, Hard, Policy Iteration, Rewards, 70.0
+60, Hard, Policy Iteration, Rewards, 75.0
+61, Hard, Policy Iteration, Rewards, 77.0
+62, Hard, Policy Iteration, Rewards, 76.0
+63, Hard, Policy Iteration, Rewards, 73.0
+64, Hard, Policy Iteration, Rewards, 79.0
+65, Hard, Policy Iteration, Rewards, 79.0
+66, Hard, Policy Iteration, Rewards, 75.0
+67, Hard, Policy Iteration, Rewards, 74.0
+68, Hard, Policy Iteration, Rewards, 76.0
+69, Hard, Policy Iteration, Rewards, 78.0
+70, Hard, Policy Iteration, Rewards, 63.0
+71, Hard, Policy Iteration, Rewards, 76.0
+72, Hard, Policy Iteration, Rewards, 76.0
+73, Hard, Policy Iteration, Rewards, 75.0
+74, Hard, Policy Iteration, Rewards, 75.0
+75, Hard, Policy Iteration, Rewards, 81.0
+76, Hard, Policy Iteration, Rewards, 79.0
+77, Hard, Policy Iteration, Rewards, 71.0
+78, Hard, Policy Iteration, Rewards, 76.0
 79, Hard, Policy Iteration, Rewards, 81.0
 80, Hard, Policy Iteration, Rewards, 78.0
-81, Hard, Policy Iteration, Rewards, 70.0
-82, Hard, Policy Iteration, Rewards, 79.0
-83, Hard, Policy Iteration, Rewards, 70.0
-84, Hard, Policy Iteration, Rewards, 70.0
-85, Hard, Policy Iteration, Rewards, 81.0
-86, Hard, Policy Iteration, Rewards, 75.0
-87, Hard, Policy Iteration, Rewards, 72.0
-88, Hard, Policy Iteration, Rewards, 77.0
-89, Hard, Policy Iteration, Rewards, 76.0
-90, Hard, Policy Iteration, Rewards, 77.0
-91, Hard, Policy Iteration, Rewards, 71.0
-92, Hard, Policy Iteration, Rewards, 76.0
-93, Hard, Policy Iteration, Rewards, 77.0
-94, Hard, Policy Iteration, Rewards, 73.0
-95, Hard, Policy Iteration, Rewards, 73.0
-96, Hard, Policy Iteration, Rewards, 76.0
-97, Hard, Policy Iteration, Rewards, 78.0
-98, Hard, Policy Iteration, Rewards, 74.0
-99, Hard, Policy Iteration, Rewards, 79.0
-100, Hard, Policy Iteration, Rewards, 76.0
-1, Hard, Q Learning, Rewards, -160.0
-2, Hard, Q Learning, Rewards, -161.0
-3, Hard, Q Learning, Rewards, -608.0
-4, Hard, Q Learning, Rewards, -302.0
-5, Hard, Q Learning, Rewards, -22.0
-6, Hard, Q Learning, Rewards, -29.0
-7, Hard, Q Learning, Rewards, 12.0
-8, Hard, Q Learning, Rewards, -68.0
-9, Hard, Q Learning, Rewards, -106.0
-10, Hard, Q Learning, Rewards, -111.0
-11, Hard, Q Learning, Rewards, -66.0
-12, Hard, Q Learning, Rewards, -88.0
-13, Hard, Q Learning, Rewards, 48.0
-14, Hard, Q Learning, Rewards, 40.0
-15, Hard, Q Learning, Rewards, -219.0
-16, Hard, Q Learning, Rewards, -11.0
-17, Hard, Q Learning, Rewards, 53.0
-18, Hard, Q Learning, Rewards, -43.0
-19, Hard, Q Learning, Rewards, -60.0
-20, Hard, Q Learning, Rewards, 20.0
-21, Hard, Q Learning, Rewards, 23.0
-22, Hard, Q Learning, Rewards, -62.0
-23, Hard, Q Learning, Rewards, 51.0
-24, Hard, Q Learning, Rewards, -24.0
-25, Hard, Q Learning, Rewards, 60.0
-26, Hard, Q Learning, Rewards, -10.0
-27, Hard, Q Learning, Rewards, 40.0
-28, Hard, Q Learning, Rewards, 44.0
-29, Hard, Q Learning, Rewards, 44.0
-30, Hard, Q Learning, Rewards, 21.0
-31, Hard, Q Learning, Rewards, 49.0
-32, Hard, Q Learning, Rewards, 13.0
-33, Hard, Q Learning, Rewards, 36.0
-34, Hard, Q Learning, Rewards, 4.0
-35, Hard, Q Learning, Rewards, 30.0
-36, Hard, Q Learning, Rewards, 48.0
-37, Hard, Q Learning, Rewards, 56.0
-38, Hard, Q Learning, Rewards, -26.0
-39, Hard, Q Learning, Rewards, -42.0
-40, Hard, Q Learning, Rewards, -37.0
-41, Hard, Q Learning, Rewards, 63.0
-42, Hard, Q Learning, Rewards, 56.0
-43, Hard, Q Learning, Rewards, 35.0
-44, Hard, Q Learning, Rewards, 44.0
-45, Hard, Q Learning, Rewards, -68.0
-46, Hard, Q Learning, Rewards, 54.0
-47, Hard, Q Learning, Rewards, 80.0
-48, Hard, Q Learning, Rewards, 61.0
-49, Hard, Q Learning, Rewards, 57.0
-50, Hard, Q Learning, Rewards, -10.0
-51, Hard, Q Learning, Rewards, 60.0
-52, Hard, Q Learning, Rewards, 50.0
-53, Hard, Q Learning, Rewards, 73.0
-54, Hard, Q Learning, Rewards, -30.0
-55, Hard, Q Learning, Rewards, 65.0
-56, Hard, Q Learning, Rewards, 28.0
-57, Hard, Q Learning, Rewards, 15.0
-58, Hard, Q Learning, Rewards, 36.0
-59, Hard, Q Learning, Rewards, 17.0
-60, Hard, Q Learning, Rewards, 59.0
-61, Hard, Q Learning, Rewards, 37.0
-62, Hard, Q Learning, Rewards, 68.0
-63, Hard, Q Learning, Rewards, 54.0
-64, Hard, Q Learning, Rewards, 51.0
-65, Hard, Q Learning, Rewards, 25.0
-66, Hard, Q Learning, Rewards, -54.0
+81, Hard, Policy Iteration, Rewards, 80.0
+82, Hard, Policy Iteration, Rewards, 69.0
+83, Hard, Policy Iteration, Rewards, 71.0
+84, Hard, Policy Iteration, Rewards, 77.0
+85, Hard, Policy Iteration, Rewards, 76.0
+86, Hard, Policy Iteration, Rewards, 79.0
+87, Hard, Policy Iteration, Rewards, 74.0
+88, Hard, Policy Iteration, Rewards, 79.0
+89, Hard, Policy Iteration, Rewards, 71.0
+90, Hard, Policy Iteration, Rewards, 79.0
+91, Hard, Policy Iteration, Rewards, 81.0
+92, Hard, Policy Iteration, Rewards, 80.0
+93, Hard, Policy Iteration, Rewards, 73.0
+94, Hard, Policy Iteration, Rewards, 79.0
+95, Hard, Policy Iteration, Rewards, 80.0
+96, Hard, Policy Iteration, Rewards, 73.0
+97, Hard, Policy Iteration, Rewards, 52.0
+98, Hard, Policy Iteration, Rewards, 71.0
+99, Hard, Policy Iteration, Rewards, 77.0
+100, Hard, Policy Iteration, Rewards, 71.0
+1, Hard, Q Learning, Rewards, -279.0
+2, Hard, Q Learning, Rewards, -600.0
+3, Hard, Q Learning, Rewards, -414.0
+4, Hard, Q Learning, Rewards, -136.0
+5, Hard, Q Learning, Rewards, -20.0
+6, Hard, Q Learning, Rewards, -100.0
+7, Hard, Q Learning, Rewards, -47.0
+8, Hard, Q Learning, Rewards, -204.0
+9, Hard, Q Learning, Rewards, -8.0
+10, Hard, Q Learning, Rewards, 38.0
+11, Hard, Q Learning, Rewards, 42.0
+12, Hard, Q Learning, Rewards, -42.0
+13, Hard, Q Learning, Rewards, -43.0
+14, Hard, Q Learning, Rewards, -4.0
+15, Hard, Q Learning, Rewards, 47.0
+16, Hard, Q Learning, Rewards, 17.0
+17, Hard, Q Learning, Rewards, -34.0
+18, Hard, Q Learning, Rewards, 46.0
+19, Hard, Q Learning, Rewards, -484.0
+20, Hard, Q Learning, Rewards, 7.0
+21, Hard, Q Learning, Rewards, -36.0
+22, Hard, Q Learning, Rewards, 19.0
+23, Hard, Q Learning, Rewards, 21.0
+24, Hard, Q Learning, Rewards, -9.0
+25, Hard, Q Learning, Rewards, 17.0
+26, Hard, Q Learning, Rewards, -61.0
+27, Hard, Q Learning, Rewards, 30.0
+28, Hard, Q Learning, Rewards, 64.0
+29, Hard, Q Learning, Rewards, 57.0
+30, Hard, Q Learning, Rewards, 43.0
+31, Hard, Q Learning, Rewards, 29.0
+32, Hard, Q Learning, Rewards, 25.0
+33, Hard, Q Learning, Rewards, -166.0
+34, Hard, Q Learning, Rewards, 58.0
+35, Hard, Q Learning, Rewards, 2.0
+36, Hard, Q Learning, Rewards, 34.0
+37, Hard, Q Learning, Rewards, 37.0
+38, Hard, Q Learning, Rewards, 31.0
+39, Hard, Q Learning, Rewards, 66.0
+40, Hard, Q Learning, Rewards, 49.0
+41, Hard, Q Learning, Rewards, -5.0
+42, Hard, Q Learning, Rewards, 48.0
+43, Hard, Q Learning, Rewards, 37.0
+44, Hard, Q Learning, Rewards, -48.0
+45, Hard, Q Learning, Rewards, 35.0
+46, Hard, Q Learning, Rewards, -5.0
+47, Hard, Q Learning, Rewards, 49.0
+48, Hard, Q Learning, Rewards, 59.0
+49, Hard, Q Learning, Rewards, -148.0
+50, Hard, Q Learning, Rewards, 43.0
+51, Hard, Q Learning, Rewards, 49.0
+52, Hard, Q Learning, Rewards, 41.0
+53, Hard, Q Learning, Rewards, 46.0
+54, Hard, Q Learning, Rewards, 61.0
+55, Hard, Q Learning, Rewards, 10.0
+56, Hard, Q Learning, Rewards, 59.0
+57, Hard, Q Learning, Rewards, -167.0
+58, Hard, Q Learning, Rewards, 68.0
+59, Hard, Q Learning, Rewards, 32.0
+60, Hard, Q Learning, Rewards, 42.0
+61, Hard, Q Learning, Rewards, 54.0
+62, Hard, Q Learning, Rewards, 51.0
+63, Hard, Q Learning, Rewards, 60.0
+64, Hard, Q Learning, Rewards, -41.0
+65, Hard, Q Learning, Rewards, 40.0
+66, Hard, Q Learning, Rewards, 52.0
 67, Hard, Q Learning, Rewards, 69.0
-68, Hard, Q Learning, Rewards, -113.0
-69, Hard, Q Learning, Rewards, -51.0
-70, Hard, Q Learning, Rewards, 42.0
-71, Hard, Q Learning, Rewards, 44.0
-72, Hard, Q Learning, Rewards, 57.0
-73, Hard, Q Learning, Rewards, 49.0
-74, Hard, Q Learning, Rewards, 42.0
-75, Hard, Q Learning, Rewards, 68.0
-76, Hard, Q Learning, Rewards, 4.0
-77, Hard, Q Learning, Rewards, 69.0
-78, Hard, Q Learning, Rewards, 67.0
-79, Hard, Q Learning, Rewards, 60.0
-80, Hard, Q Learning, Rewards, -18.0
-81, Hard, Q Learning, Rewards, -48.0
-82, Hard, Q Learning, Rewards, 67.0
-83, Hard, Q Learning, Rewards, 58.0
-84, Hard, Q Learning, Rewards, 65.0
-85, Hard, Q Learning, Rewards, -30.0
-86, Hard, Q Learning, Rewards, 77.0
-87, Hard, Q Learning, Rewards, 69.0
-88, Hard, Q Learning, Rewards, 31.0
-89, Hard, Q Learning, Rewards, -53.0
-90, Hard, Q Learning, Rewards, -37.0
-91, Hard, Q Learning, Rewards, -31.0
-92, Hard, Q Learning, Rewards, -31.0
-93, Hard, Q Learning, Rewards, 28.0
-94, Hard, Q Learning, Rewards, 48.0
-95, Hard, Q Learning, Rewards, 37.0
-96, Hard, Q Learning, Rewards, 29.0
-97, Hard, Q Learning, Rewards, 49.0
-98, Hard, Q Learning, Rewards, 35.0
-99, Hard, Q Learning, Rewards, 38.0
-100, Hard, Q Learning, Rewards, -26.0
+68, Hard, Q Learning, Rewards, 71.0
+69, Hard, Q Learning, Rewards, 17.0
+70, Hard, Q Learning, Rewards, 66.0
+71, Hard, Q Learning, Rewards, 40.0
+72, Hard, Q Learning, Rewards, 19.0
+73, Hard, Q Learning, Rewards, 46.0
+74, Hard, Q Learning, Rewards, -53.0
+75, Hard, Q Learning, Rewards, 62.0
+76, Hard, Q Learning, Rewards, -19.0
+77, Hard, Q Learning, Rewards, 53.0
+78, Hard, Q Learning, Rewards, 51.0
+79, Hard, Q Learning, Rewards, 74.0
+80, Hard, Q Learning, Rewards, 36.0
+81, Hard, Q Learning, Rewards, -5.0
+82, Hard, Q Learning, Rewards, 6.0
+83, Hard, Q Learning, Rewards, 72.0
+84, Hard, Q Learning, Rewards, 61.0
+85, Hard, Q Learning, Rewards, 64.0
+86, Hard, Q Learning, Rewards, 7.0
+87, Hard, Q Learning, Rewards, -12.0
+88, Hard, Q Learning, Rewards, 67.0
+89, Hard, Q Learning, Rewards, -10.0
+90, Hard, Q Learning, Rewards, -9.0
+91, Hard, Q Learning, Rewards, 37.0
+92, Hard, Q Learning, Rewards, 59.0
+93, Hard, Q Learning, Rewards, 55.0
+94, Hard, Q Learning, Rewards, 33.0
+95, Hard, Q Learning, Rewards, 49.0
+96, Hard, Q Learning, Rewards, 43.0
+97, Hard, Q Learning, Rewards, 63.0
+98, Hard, Q Learning, Rewards, 13.0
+99, Hard, Q Learning, Rewards, 62.0
+100, Hard, Q Learning, Rewards, 59.0
