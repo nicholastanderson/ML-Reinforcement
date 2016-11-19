@@ -84,7 +84,7 @@ public class EasyGridWorldLauncher {
 		}
 		PrintWriter pw = new PrintWriter(new File(dir+"EasyData.csv"));
 		pw.write("Iteration, Difficulty, Learner, Measure, Value \n");
-		AnalysisAggregator.printAggregateAnalysis(pw);
+		AnalysisAggregator.printAggregateAnalysis(pw, "Easy");
 		pw.close();
 	}
 

@@ -90,7 +90,7 @@ public class HardGridWorldLauncher {
 		}
 		PrintWriter pw = new PrintWriter(new File(dir + "HardData.csv"));
 		pw.write("Iteration, Difficulty, Learner, Measure, Value \n");
-		AnalysisAggregator.printAggregateAnalysis(pw);
+		AnalysisAggregator.printAggregateAnalysis(pw, "Hard");
 		pw.close();
 	}
 
