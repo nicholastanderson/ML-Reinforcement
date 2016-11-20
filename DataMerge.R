@@ -1,4 +1,5 @@
-dir<-"/Users/nicholasanderson/Bench/ML-Reinforcement/data/"
+#dir<-"/Users/nicholasanderson/Bench/ML-Reinforcement/data/"
+dir<-"c:/bench/ml-reinforcement/data/"
 setwd(dir)
 
 hardData<-read.csv('HardData.csv')
