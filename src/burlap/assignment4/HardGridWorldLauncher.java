@@ -28,8 +28,8 @@ public class HardGridWorldLauncher {
 	//showValueIterationPolicyMap, showPolicyIterationPolicyMap, and showQLearningPolicyMap will open a GUI
 	//you can use to visualize the policy maps. Consider only having one variable set to true at a time
 	//since the pop-up window does not indicate what algorithm was used to generate the map.
-	private static boolean showValueIterationPolicyMap = true; 
-	private static boolean showPolicyIterationPolicyMap = false;
+	private static boolean showValueIterationPolicyMap = false;
+	private static boolean showPolicyIterationPolicyMap = true;
 	private static boolean showQLearningPolicyMap = false;
 	
 	private static Integer MAX_ITERATIONS = 100;
